@@ -33,7 +33,7 @@ class TestMagazine:
 
         # uncomment the next two lines if using Exceptions
         # with pytest.raises(Exception):
-        #     Magazine(2, "Numbers")
+         #    Magazine(2, "Numbers")
 
     def test_name_len(self):
         """magazine name is between 2 and 16 characters, inclusive"""
